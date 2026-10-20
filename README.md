@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="preview.gif" alt="LinkVault preview" width="900">
-</p>
-
 <h1 align="center">LinkVault</h1>
 
 <p align="center">
@@ -24,6 +20,12 @@
   <a href="#project-structure">Project Structure</a>
   ·
   <a href="#deployment">Deployment</a>
+</p>
+
+<br />
+
+<p align="center">
+  <img src="preview.gif" alt="LinkVault preview" width="900">
 </p>
 
 ## Overview
