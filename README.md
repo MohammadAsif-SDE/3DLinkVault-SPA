@@ -168,7 +168,3 @@ LinkVault is a static Vite application and can be deployed to Vercel, Netlify, G
 | Output directory | `dist` |
 
 If deploying under a subpath, configure the Vite `base` option in [`vite.config.ts`](vite.config.ts).
-
-## License
-
-No license has been declared for this project yet. Add a `LICENSE` file before distributing it as open-source software.
